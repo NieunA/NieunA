@@ -1,8 +1,8 @@
 - Discord: 니은#8094
-- Pronouns: *she/her*
+<!-- - Pronouns: *she/her* -->
 - Korean student developer
 
-![metrics](https://metrics.lecoq.io/NieunA)
+<!-- ![metrics](https://metrics.lecoq.io/NieunA) -->
 
 <!-- ## Links
 Nothing is here now :cry: -->
