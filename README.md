@@ -1,4 +1,4 @@
-- Discord: 니은#8094
+- Discord: @nieuna
 <!-- - Pronouns: *she/her* -->
 - Korean student developer
 
